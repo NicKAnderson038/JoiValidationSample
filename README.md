@@ -1,2 +1,0 @@
-# JoiValidationSample
-Created with CodeSandbox
